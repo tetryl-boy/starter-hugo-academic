@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/EricQinanHuang
     label: Follow me on Twitter
     display:
       header: true
@@ -29,7 +29,7 @@ social:
     link: https://www.linkedin.com/in/qinan-huang-516551237/
   - icon: cv
     icon_pack: ai
-    link: media/QINAN_HUANG_CV.pdf
+    link: uploads/QINAN_HUANG_CV.pdf
     display:
       header: true
 organizations:
