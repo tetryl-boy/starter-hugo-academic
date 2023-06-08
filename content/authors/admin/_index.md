@@ -29,7 +29,9 @@ social:
     link: https://www.linkedin.com/in/qinan-huang-516551237/
   - icon: cv
     icon_pack: ai
-    link: uploads/QINAN_HUANG_CV.pdf
+    link: media/QINAN_HUANG_CV.pdf
+    display:
+      header: true
 organizations:
   - name: Hunan University
     url: https://www.hnu.edu.cn/
