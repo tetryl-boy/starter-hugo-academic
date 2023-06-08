@@ -7,11 +7,11 @@ authors:
   - Yangyi Huang
   - Lin Zhang
   - Mengqi Yan
-  - Qinan Huang
+  - "**Qinan Huang**"
   - Yuning Zhang
   - Yanqun Ren*
   - and Weiping Luo*
-doi: https://pubs.acs.org/doi/full/10.1021/acs.jced.1c00699
+doi: 10.1021/acs.jced.1c00699
 abstract: In this research, the solubilities of adipic acid in sec-butyl alcohol
   (SBA), isobutyl alcohol (IBA), and n-octyl alcohol (NOA); glutaric acid in
   n-propyl alcohol, isopropyl alcohol, n-butyl alcohol, SBA, IBA, tert-butyl
