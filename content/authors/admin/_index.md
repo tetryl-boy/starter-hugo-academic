@@ -1,7 +1,7 @@
 ---
 title: Qinan Huang (黄祺楠）
 role: Undergraduate Researcher
-avatar_filename: img_5179.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Molecule Dynamic, Organometallic Chemistry
   and Machine Learning.
 interests:
@@ -29,7 +29,7 @@ social:
     link: https://www.linkedin.com/in/qinan-huang-516551237/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/QINAN_HUANG_CV.pdf
 organizations:
   - name: Hunan University
     url: https://www.hnu.edu.cn/
