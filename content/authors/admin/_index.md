@@ -23,7 +23,7 @@ social:
     link: https://scholar.google.com/citations?user=lq1U6PUAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/tetryl-boy
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/qinan-huang-516551237/
@@ -39,12 +39,12 @@ organizations:
     url: https://www.berkeley.edu/
 education:
   courses:
-    - course: Visiting Student
+    - course: Visiting Student, Theoretical Chemistry
       institution: University of California, Berkeley
       year: 2023
     - course: BSc inChemistry
       institution: Hunan University
-      year: ""
+      year: 2024
 superuser: true
 status:
   icon: ☕️
