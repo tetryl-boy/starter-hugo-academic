@@ -53,3 +53,12 @@ highlight_name: true
 first_name: Alice
 email: qinanhuang6@gmail.com
 ---
+As an undergraduate researcher, Qinan Huang has been involved in several research projects in the field of Chemistry.
+
+At Hunan University, he worked with the Qu and Duan Group on the study of mechanism and control methods of metal-organic catalytic reactions; dynamical effects in transition metal chemistry; and computational design of privileged chiral catalysts. During this project, Qinan gained experience in molecular dynamics simulation, quantum chemistry calculations, and synthetic biology techniques such as molecular cloning and nucleic acid probes.
+
+At The University of British Columbia, Okanagan Campus in Canada, Qinan worked with the Dilabio Group on system-specific ACPS for quantum dynamics and vibrational spectroscopy as well as DFT calculation database machine learning. This project allowed him to gain experience in machine learning techniques applied to computational chemistry. 
+
+Through his research experiences, Qinan has developed a strong interest in Computational Chemistry, Quantum Chemistry, Analytical Chemistry, Nanotechnology, Molecular Dynamics Simulation, Synthetic Biology, Molecular Cloning, Nucleic Acid Probes and Fluorescent Probes. He is committed to continuing his research career and contributing to advancements in these fields.
+
+<!--EndFragment-->
