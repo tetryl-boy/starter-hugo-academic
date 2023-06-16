@@ -53,10 +53,10 @@ highlight_name: true
 first_name: Qinan
 email: qinanhuang6@gmail.com
 ---
-As an undergraduate researcher, Qinan Huang has been involved in several research projects in the field of Chemistry.
+Qinan Huang is a dedicated undergraduate researcher in the field of Chemistry with a strong passion for Computational Chemistry and Organometallic Chemistry.He is currently pursuing a BSc in Chemistry at Hunan University. 
 
-At Hunan University, he worked with the Qu and Duan Group on the study of mechanism and control methods of metal-organic catalytic reactions; dynamical effects in transition metal chemistry; and computational design of privileged chiral catalysts. During this project, Qinan gained experience in molecular dynamics simulation, quantum chemistry calculations, and synthetic biology techniques such as molecular cloning and nucleic acid probes.
+Qinan has gained valuable research experience through his work in various labs, including Qu and Duan Group at Hunan University, Dilabio's Lab at The University of British Columbia, Hartwig's Lab and Houk's Lab at the University of California. In these labs, he has worked on several research projects related to metal-organic catalytic reactions, quantum dynamics, vibrational spectroscopy, machine learning, and more.
 
-At The University of British Columbia, Okanagan Campus in Canada, Qinan worked with the Dilabio Group on system-specific ACPS for quantum dynamics and vibrational spectroscopy as well as DFT calculation database machine learning. This project allowed him to gain experience in machine learning techniques applied to computational chemistry. 
+Qinan has also completed a visiting student program at the University of California, Berkeley, where he excelled in courses such as Introduction to Computational Chemistry and Machine Learning, Statistical Models, and Optimization for Molecular Problems. He has also received awards such as the IGEM 2022 Competition Silver Medal and the National Scholarship from the Ministry of Education of the People's Republic of China.
 
-Through his research experiences, Qinan has developed a strong interest in Computational Chemistry, Quantum Chemistry, Analytical Chemistry, Nanotechnology, Molecular Dynamics Simulation, Synthetic Biology, Molecular Cloning, Nucleic Acid Probes and Fluorescent Probes. He is committed to continuing his research career and contributing to advancements in these fields.
+With his diverse research experiences and strong academic background, Qinan is committed to continuing his research career and making significant contributions to the field of Chemistry.
