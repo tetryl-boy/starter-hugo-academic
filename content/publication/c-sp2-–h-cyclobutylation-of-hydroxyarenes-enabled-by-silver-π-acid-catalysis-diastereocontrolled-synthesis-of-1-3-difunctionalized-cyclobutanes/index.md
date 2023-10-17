@@ -27,7 +27,7 @@ abstract: Ring-opening of bicyclo[1.1.0]butanes (BCBs) is emerging as a powerful
   cyclobutanes. Moreover, control experiments and theoretical calculations were
   performed to illustrate the reaction mechanism and selectivity.
 draft: false
-featured: true
+featured: false
 image:
   filename: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D3SC03258B&imageInfo.ImageIdentifier.Year=2023
   focal_point: Smart
