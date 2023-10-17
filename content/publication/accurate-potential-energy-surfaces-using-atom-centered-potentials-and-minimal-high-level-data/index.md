@@ -4,14 +4,13 @@ title: Accurate Potential Energy Surfaces Using Atom-Centered Potentials and
 publication_types:
   - "0"
 authors:
-  - Ashani
-  - M. N.; Huang
-  - Q. ; Flowers
-  - A. M.; Brown
-  - A; Aerts
-  - A.∗ ; Otero-de-la-Roza
-  - A.∗ ; DiLabio
-  - G. A.∗
+  - Mahsa Nazemi Ashani
+  - Qinan Huang
+  - A. Mackenzie Flowers
+  - Alex Brown
+  - Antoine Aerts
+  - Alberto Otero-de-la-Roza^*
+  - and Gino A. DiLabio^*
 doi: https://doi.org/10.1021/acs.jpca.3c04558
 publication: The Journal of Physical Chemistry A
 publication_short: J. Phys. Chem. A
