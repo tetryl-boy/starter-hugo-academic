@@ -29,18 +29,17 @@ social:
     link: https://www.linkedin.com/in/qinan-huang-516551237/
   - icon: cv
     icon_pack: ai
-    link: uploads/Qinan_Huang_CVQinan_Huang_CV.pdf
+    link: uploads/Qinan_Huang_CV.pdf
     display:
       header: true
 organizations:
   - name: The University of Chicago
     url: https://www.uchicago.edu/en
-  - name: Hunan University
-    url: https://www.hnu.edu.cn/
-  - name: University of California, Berkeley
-    url: https://www.berkeley.edu/
 education:
   courses:
+    - course: Ph.D. Student, Molecular Engineering
+      institution: The University of Chicago
+      year: Present
     - course: Visiting Student, Theoretical Chemistry
       institution: University of California, Berkeley
       year: 2023
