@@ -45,14 +45,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Undergraduate Researcher
-          company: Houk's Lab, University of California, Los Angeles
-          company_url: ''
-          company_logo: UCLA
-          location: California
-          date_start: '2023-05-01'
-          date_end: ''
-          description:  Studied mechanism of enzyme-catalyzed reactions using quantum mechanics and molecule dynamics
-        - title: Undergraduate Researcher
           company: Dilabio's Lab, The University of British Columbia
           company_url: ''
           company_logo: UBC

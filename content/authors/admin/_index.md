@@ -1,6 +1,6 @@
 ---
 title: Qinan Huang (黄祺楠）
-role: Undergraduate Researcher
+role: Ph.D. Student At the University of Chicago
 avatar_filename: avatar.jpg
 bio: My research interests include Molecule Dynamic, Organometallic Chemistry
   and Machine Learning.
@@ -29,10 +29,12 @@ social:
     link: https://www.linkedin.com/in/qinan-huang-516551237/
   - icon: cv
     icon_pack: ai
-    link: uploads/Qinan_Huang_CV.pdf
+    link: uploads/Qinan_Huang_CVQinan_Huang_CV.pdf
     display:
       header: true
 organizations:
+  - name: The University of Chicago
+    url: https://www.uchicago.edu/en
   - name: Hunan University
     url: https://www.hnu.edu.cn/
   - name: University of California, Berkeley
@@ -51,7 +53,7 @@ status:
 last_name: Huang
 highlight_name: true
 first_name: Qinan
-email: qinanhuang6@gmail.com
+email: qinanh@uchicago.edu
 ---
 Qinan Huang is a dedicated undergraduate researcher in the field of Chemistry with a strong passion for Computational Chemistry and Organometallic Chemistry.He is currently pursuing a BSc in Chemistry at Hunan University. 
 
